@@ -1,0 +1,20 @@
+{
+  "name": "backendroxd",
+  "version": "1.0.0",
+  "description": "a simple app to deploy",
+  "keywords": [
+    "node",
+    "roxd"
+  ],
+  "license": "ISC",
+  "author": "Sujan G j",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
